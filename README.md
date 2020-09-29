@@ -23,15 +23,15 @@ Task management apps are specifically designed to help you organize and manage y
 - Express.
 
 **MODULES USED**
-- SendGrid: This is a dedicated service for interaction with the mail endpoint of the SendGrid v3 API.
-- Bcrypt: A library to help you hash passwords. 
-- JSON Web Token: Contained way for securely transmitting information between parties as a JSON object.
-- Multer: Multer is a node.js middleware primarily used for uploading files.
-- Sharp: The typical use case for this Node.js module is to convert large images in common formats to smaller, web-friendly JPEG, PNG and WebP images of varying dimensions.
-- Validator: A library of string validators and sanitizers.
-- Env-cmd: A simple node program for executing commands using an environment from an env file.
-- Nodemon: Nodemon is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory are detected.
-- SuperTest: The motivation with this module is to provide a high-level abstraction for testing HTTP, while still allowing you to drop down to the lower-level API provided by superagent.
+- ***SendGrid:*** This is a dedicated service for interaction with the mail endpoint of the SendGrid v3 API.
+- ***Bcrypt:*** A library to help you hash passwords. 
+- ***JSON Web Token:*** Contained way for securely transmitting information between parties as a JSON object.
+- ***Multer:*** Multer is a node.js middleware primarily used for uploading files.
+- ***Sharp:*** The typical use case for this Node.js module is to convert large images in common formats to smaller, web-friendly JPEG, PNG and WebP images of varying dimensions.
+- ***Validator:*** A library of string validators and sanitizers.
+- ***Env-cmd:*** A simple node program for executing commands using an environment from an env file.
+- ***Nodemon:*** Nodemon is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory are detected.
+- ***SuperTest:*** The motivation with this module is to provide a high-level abstraction for testing HTTP, while still allowing you to drop down to the lower-level API provided by superagent.
 
 **DOWNLOAD**  
 If you want to download the code, hit the green button saying "Clone or download", choose the "Download ZIP" option, and you're good to go.
